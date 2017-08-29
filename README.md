@@ -10,4 +10,6 @@ This was closed source and I had always planned on keeping it that way (as you c
 It's my favorite personal project I have done over the years as I had to learn and solve many problems I haven't encountered during my
 professional career such as solving caching and reading a media files at the same time they are being downloaded, reverse engineering the API which most credit goes to https://github.com/simon-weber but I had to translate all of that to C++/Qt/BB10 SDK code.
 
-Please excuse the explicitives in my code as I was just having fun and enjoying what I do, writing software and solving diffcult but enjoyable problems!
+Please excuse any explicitives in my code as I was just having fun and enjoying what I do, writing software and solving diffcult but enjoyable problems!
+
+I am releasing this under the license where I would like to attributed for any work borrowed from this project in its whole or parts.
